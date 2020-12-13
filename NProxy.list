@@ -488,13 +488,13 @@ USER-AGENT,restaurant-mobile*,nProxy
 USER-AGENT,WeChat*,nProxy
 USER-AGENT,YYeTs*,nProxy
 
-IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
-IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
-IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
-IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
-IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
-IP-CIDR6,::1/128,DIRECT,no-resolve
-IP-CIDR6,fc00::/7,DIRECT,no-resolve
-IP-CIDR6,fe80::/10,DIRECT,no-resolve
-IP-CIDR6,fd00::/8,DIRECT,no-resolve
-IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+IP-CIDR,192.168.0.0/16,nProxy,no-resolve
+IP-CIDR,10.0.0.0/8,nProxy,no-resolve
+IP-CIDR,172.16.0.0/12,nProxy,no-resolve
+IP-CIDR,127.0.0.0/8,nProxy,no-resolve
+IP-CIDR,100.64.0.0/10,nProxy,no-resolve
+IP-CIDR6,::1/128,nProxy,no-resolve
+IP-CIDR6,fc00::/7,nProxy,no-resolve
+IP-CIDR6,fe80::/10,nProxy,no-resolve
+IP-CIDR6,fd00::/8,nProxy,no-resolve
+IP-CIDR,119.28.28.28/32,nProxy,no-resolve
