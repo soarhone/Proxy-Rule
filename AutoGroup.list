@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,google.com,AutoGroup
 DOMAIN-SUFFIX,t.me,AutoGroup
 DOMAIN-SUFFIX,tx.me,AutoGroup
 DOMAIN-SUFFIX,tdesktop.com,AutoGroup
@@ -46,7 +47,6 @@ DOMAIN,itvpnpmobile-a.akamaihd.net,AutoGroup
 DOMAIN,youtubei.googleapis.com,AutoGroup
 DOMAIN-KEYWORD,facebook,AutoGroup
 DOMAIN-KEYWORD,gmail,AutoGroup
-DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,instagram,AutoGroup
 DOMAIN-KEYWORD,twitter,AutoGroup
 DOMAIN-KEYWORD,amazon,AutoGroup

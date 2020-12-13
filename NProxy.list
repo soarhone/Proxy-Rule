@@ -1,7 +1,6 @@
 DOMAIN,analytics.strava.com,nProxy
 DOMAIN,app.adjust.com,nProxy
 DOMAIN,blzddist1-a.akamaihd.net,nProxy
-DOMAIN,dl.google.com,nProxy
 DOMAIN,download.jetbrains.com,nProxy
 DOMAIN,ec4.images-amazon.com,nProxy
 DOMAIN,g-ec4.images-amazon.com,nProxy
@@ -9,7 +8,6 @@ DOMAIN,images-cn.ssl-images-amazon.com,nProxy
 DOMAIN,livew.l.qq.com,nProxy
 DOMAIN,msg.umeng.com,nProxy
 DOMAIN,msg.umengcloud.com,nProxy
-DOMAIN,mtalk.google.com,nProxy
 DOMAIN,officecdn-microsoft-com.akamaized.net,nProxy
 DOMAIN,speedtest.macpaw.com,nProxy
 DOMAIN,vd.l.qq.com,nProxy
