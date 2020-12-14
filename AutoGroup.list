@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,google.com,AutoGroup
-DOMAIN-SUFFIX,fast.com,AutoGroup
-DOMAIN-SUFFIX,speedtest.net,AutoGroup
+DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
 DOMAIN-SUFFIX,t.me,AutoGroup
 DOMAIN-SUFFIX,tx.me,AutoGroup
 DOMAIN-SUFFIX,tdesktop.com,AutoGroup
