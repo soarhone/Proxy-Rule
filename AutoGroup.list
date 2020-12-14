@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,google.com,AutoGroup
 DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
-DOMAIN-SUFFIX,ovhcloud.com,AutoGroup
+DOMAIN-SUFFIX,ark.to,AutoGroup
+DOMAIN-SUFFIX,maying.co,AutoGroup
 DOMAIN-SUFFIX,t.me,AutoGroup
 DOMAIN-SUFFIX,tx.me,AutoGroup
 DOMAIN-SUFFIX,tdesktop.com,AutoGroup
@@ -75,7 +76,6 @@ DOMAIN-KEYWORD,certbolt,AutoGroup
 DOMAIN-KEYWORD,oberlo,AutoGroup
 DOMAIN-KEYWORD,nordvpn,AutoGroup
 DOMAIN-KEYWORD,googleadservices,AutoGroup
-DOMAIN-KEYWORD,ark.to,AutoGroup
 DOMAIN-KEYWORD,duyaoss,AutoGroup
 DOMAIN-KEYWORD,jav,AutoGroup
 DOMAIN-KEYWORD,pinterest,AutoGroup
@@ -779,7 +779,6 @@ DOMAIN-SUFFIX,mail.ru,AutoGroup
 DOMAIN-SUFFIX,mailchimp.com,AutoGroup
 DOMAIN-SUFFIX,marc.info,AutoGroup
 DOMAIN-SUFFIX,matters.news,AutoGroup
-DOMAIN-SUFFIX,maying.co,AutoGroup
 DOMAIN-SUFFIX,mil,AutoGroup
 DOMAIN-SUFFIX,mingpao.com,AutoGroup
 DOMAIN-SUFFIX,myspace.com,AutoGroup
