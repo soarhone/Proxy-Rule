@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,google.com,AutoGroup
+DOMAIN-KEYWORD,googleapis,AutoGroup
 DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
 DOMAIN-SUFFIX,ark.to,AutoGroup
 DOMAIN-SUFFIX,maying.co,AutoGroup
