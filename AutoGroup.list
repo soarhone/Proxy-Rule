@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,google.com,AutoGroup
+DOMAIN-SUFFIX,licdn.com,AutoGroup
 DOMAIN-KEYWORD,googleapis,AutoGroup
 DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
 DOMAIN-SUFFIX,ark.to,AutoGroup
@@ -90,11 +91,9 @@ DOMAIN-KEYWORD,uk-live,AutoGroup
 DOMAIN-KEYWORD,voddazn,AutoGroup
 DOMAIN-KEYWORD,citizenlab,AutoGroup
 DOMAIN-KEYWORD,gifrocket,AutoGroup
-DOMAIN-KEYWORD,btbtdy,AutoGroup
 DOMAIN-KEYWORD,vingle,AutoGroup
 DOMAIN-KEYWORD,telegram,AutoGroup
 DOMAIN-KEYWORD,rerollcalculator,AutoGroup
-DOMAIN-KEYWORD,alicdn,AutoGroup
 DOMAIN-KEYWORD,hubblesite,AutoGroup
 DOMAIN-KEYWORD,pingdom,AutoGroup
 DOMAIN-KEYWORD,d3planner,AutoGroup
@@ -103,7 +102,6 @@ DOMAIN-KEYWORD,comptia,AutoGroup
 DOMAIN-KEYWORD,strongvpn,AutoGroup
 DOMAIN-KEYWORD,astrill,AutoGroup
 DOMAIN-KEYWORD,192tt,AutoGroup
-DOMAIN-KEYWORD,rixcloud,AutoGroup
 DOMAIN,kktv-theater.kk.stream,AutoGroup
 DOMAIN,linear-abematv.akamaized.net,AutoGroup
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,AutoGroup
