@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,google.com,AutoGroup
+DOMAIN-SUFFIX,debian.org,AutoGroup
 DOMAIN-SUFFIX,syncthing.net,AutoGroup
 DOMAIN-SUFFIX,nc-img.com,AutoGroup
 DOMAIN-SUFFIX,licdn.com,AutoGroup
