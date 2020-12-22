@@ -6,3 +6,4 @@ PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram,AutoGroup
 PROCESS-NAME,/Applications/Microsoft To Do.app/Contents/MacOS/Microsoft To Do,AutoGroup
 PROCESS-NAME,/Applications/Mate Translate.app/Contents/MacOS/Mate Translate,AutoGroup
 PROCESS-NAME,LookupViewService,AutoGroup
+PROCESS-NAME,Microsoft Outlook.app,AutoGroup
