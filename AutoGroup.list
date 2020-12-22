@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,debian.org,AutoGroup
 DOMAIN-SUFFIX,syncthing.net,AutoGroup
 DOMAIN-SUFFIX,nc-img.com,AutoGroup
 DOMAIN-SUFFIX,licdn.com,AutoGroup
+DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,googleapis,AutoGroup
 DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
 DOMAIN-SUFFIX,ark.to,AutoGroup
