@@ -1,12 +1,9 @@
-DOMAIN-SUFFIX,google.com,AutoGroup
+DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-SUFFIX,openmediavault.org,AutoGroup
 DOMAIN-SUFFIX,debian.org,AutoGroup
 DOMAIN-SUFFIX,syncthing.net,AutoGroup
 DOMAIN-SUFFIX,nc-img.com,AutoGroup
 DOMAIN-SUFFIX,licdn.com,AutoGroup
-DOMAIN-KEYWORD,google,AutoGroup
-DOMAIN-KEYWORD,googleapis,AutoGroup
-DOMAIN-SUFFIX,googleusercontent.com,AutoGroup
 DOMAIN-SUFFIX,ark.to,AutoGroup
 DOMAIN-SUFFIX,maying.co,AutoGroup
 DOMAIN-SUFFIX,t.me,AutoGroup
@@ -54,7 +51,6 @@ DOMAIN,hboasia5-i.akamaihd.net,AutoGroup
 DOMAIN,hls.itunes.apple.com,AutoGroup
 DOMAIN,itunes.apple.com,AutoGroup
 DOMAIN,itvpnpmobile-a.akamaihd.net,AutoGroup
-DOMAIN,youtubei.googleapis.com,AutoGroup
 DOMAIN-KEYWORD,facebook,AutoGroup
 DOMAIN-KEYWORD,gmail,AutoGroup
 DOMAIN-KEYWORD,instagram,AutoGroup
@@ -82,7 +78,6 @@ DOMAIN-KEYWORD,osboxes,AutoGroup
 DOMAIN-KEYWORD,certbolt,AutoGroup
 DOMAIN-KEYWORD,oberlo,AutoGroup
 DOMAIN-KEYWORD,nordvpn,AutoGroup
-DOMAIN-KEYWORD,googleadservices,AutoGroup
 DOMAIN-KEYWORD,duyaoss,AutoGroup
 DOMAIN-KEYWORD,jav,AutoGroup
 DOMAIN-KEYWORD,pinterest,AutoGroup
@@ -1043,7 +1038,6 @@ DOMAIN-SUFFIX,wikia.com,AutoGroup
 DOMAIN-SUFFIX,wn.com,AutoGroup
 DOMAIN-SUFFIX,wolframalpha.com,AutoGroup
 DOMAIN-SUFFIX,x-art.com,AutoGroup
-DOMAIN-SUFFIX,googlevideo.com,AutoGroup
 DOMAIN-SUFFIX,nflxso.net,AutoGroup
 DOMAIN-SUFFIX,netflixdnstest0.com,AutoGroup
 DOMAIN-SUFFIX,netflixdnstest1.com,AutoGroup
