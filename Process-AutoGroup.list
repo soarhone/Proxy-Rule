@@ -1,5 +1,6 @@
 PROCESS-NAME,/Applications/Rosetta Stone Learn Languages.app/Contents/MacOS/Rosetta Stone Learn Languages,AutoGroup
-PROCESS-NAME,/Applications/LiveChat.app/Contents/MacOS/LiveChat,AutoGroup
+PROCESS-NAME,/Applications/Spark.app/Contents/MacOS/Spark,AutoGroup
+PROCESS-NAME,/Applications/LiveChat.app/Contents/MacOS/LiveChat
 PROCESS-NAME,/Applications/Unsplash Wallpapers.app/Contents/MacOS/Unsplash Wallpapers,AutoGroup
 PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram,AutoGroup
 PROCESS-NAME,/Applications/Microsoft To Do.app/Contents/MacOS/Microsoft To Do,AutoGroup
