@@ -1,6 +1,6 @@
 DOMAIN-KEYWORD,google,AutoGroup
+DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
-DOMAIN-SUFFIX,launchpad.net,AutoGroup
 DOMAIN-SUFFIX,openmediavault.org,AutoGroup
 DOMAIN-SUFFIX,debian.org,AutoGroup
 DOMAIN-SUFFIX,syncthing.net,AutoGroup
