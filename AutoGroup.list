@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
+DOMAIN-SUFFIX,snapcraft.io,AutoGroup
 DOMAIN-SUFFIX,scribdassets.com,AutoGroup
 DOMAIN-SUFFIX,openmediavault.org,AutoGroup
 DOMAIN-SUFFIX,debian.org,AutoGroup
