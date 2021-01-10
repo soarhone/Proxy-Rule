@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
+DOMAIN-SUFFIX,opensuse.org,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
 DOMAIN-SUFFIX,vgnome.org,AutoGroup
 DOMAIN-SUFFIX,snapcraft.io,AutoGroup
