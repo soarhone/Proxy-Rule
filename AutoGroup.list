@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-KEYWORD,calibre-ebook.com,AutoGroup
+DOMAIN-SUFFIX,pinimg.com,AutoGroup
 DOMAIN-SUFFIX,opensuse.org,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
 DOMAIN-SUFFIX,vgnome.org,AutoGroup
