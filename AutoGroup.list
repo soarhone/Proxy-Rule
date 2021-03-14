@@ -1,9 +1,8 @@
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-KEYWORD,calibre-ebook.com,AutoGroup
-DOMAIN-SUFFIX,1.beargogogo.xyz,AutoGroup
-DOMAIN-SUFFIX,2.beargogogo.xyz,AutoGroup
-DOMAIN-SUFFIX,c.beargogogo.xyz,AutoGroup
+DOMAIN-SUFFIX,r.beargogogo.xyz,nProxy
+DOMAIN-SUFFIX,beargogogo.xyz,AutoGroup
 DOMAIN-SUFFIX,pinimg.com,AutoGroup
 DOMAIN-SUFFIX,opensuse.org,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
