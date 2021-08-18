@@ -2,8 +2,6 @@ DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchdarkly.com,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-KEYWORD,calibre-ebook.com,AutoGroup
-DOMAIN-SUFFIX,r.beargogogo.xyz,nProxy
-DOMAIN-SUFFIX,beargogogo.xyz,AutoGroup
 DOMAIN-SUFFIX,pinimg.com,AutoGroup
 DOMAIN-SUFFIX,opensuse.org,AutoGroup
 DOMAIN-SUFFIX,vmware.com,AutoGroup
