@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,cdn-apple.com,nProxy
 DOMAIN-SUFFIX,crashlytics.com,nProxy
 DOMAIN-SUFFIX,icloud.com,nProxy
 DOMAIN-SUFFIX,icloud-content.com,nProxy
-DOMAIN-SUFFIX,me.com,nProxy
 DOMAIN-SUFFIX,mzstatic.com,nProxy
 DOMAIN,www-cdn.icloud.com.akadns.net,nProxy
 DOMAIN-SUFFIX,ascelibrary.org,nProxy
@@ -243,7 +242,6 @@ DOMAIN-SUFFIX,madsrevolution.net,nProxy
 DOMAIN-SUFFIX,maoyan.com,nProxy
 DOMAIN-SUFFIX,maoyun.tv,nProxy
 DOMAIN-SUFFIX,map.baidu.com,nProxy
-DOMAIN-SUFFIX,me.com,nProxy
 DOMAIN-SUFFIX,meipai.com,nProxy
 DOMAIN-SUFFIX,meitu.com,nProxy
 DOMAIN-SUFFIX,meituan.com,nProxy
