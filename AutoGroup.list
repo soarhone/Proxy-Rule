@@ -128,9 +128,7 @@ DOMAIN-SUFFIX,apple-cloudkit.com,AutoGroup
 DOMAIN-SUFFIX,appstore.com,AutoGroup
 DOMAIN-SUFFIX,cdn-apple.com,AutoGroup
 DOMAIN-SUFFIX,crashlytics.com,AutoGroup
-DOMAIN-SUFFIX,icloud.com,AutoGroup
 DOMAIN-SUFFIX,icloud-content.com,AutoGroup
-DOMAIN-SUFFIX,me.com,AutoGroup
 DOMAIN-SUFFIX,mzstatic.com,AutoGroup
 DOMAIN-SUFFIX,wunderlist.com,AutoGroup
 DOMAIN-SUFFIX,omv-extras.org,AutoGroup
