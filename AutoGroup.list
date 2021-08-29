@@ -1217,6 +1217,7 @@ USER-AGENT,TaiwanGood*,AutoGroup
 USER-AGENT,Viu*,AutoGroup
 USER-AGENT,ViuTV*,AutoGroup
 
+IP-CIDR,172.104.122.6/32,AutoGroup,no-resolve
 IP-CIDR,3.123.36.126/32,AutoGroup,no-resolve
 IP-CIDR,35.157.215.84/32,AutoGroup,no-resolve
 IP-CIDR,35.157.217.255/32,AutoGroup,no-resolve
