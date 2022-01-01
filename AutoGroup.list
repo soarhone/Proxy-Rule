@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,pagespeed-mod,AutoGroup
+DOMAIN-SUFFIX,moon.fm,AutoGroup
 DOMAIN-SUFFIX,googleapis.com,AutoGroup
 DOMAIN-SUFFIX,beargogogo.xyz,AutoGroup
 DOMAIN-KEYWORD,launchdarkly,AutoGroup
