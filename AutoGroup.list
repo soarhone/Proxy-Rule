@@ -1,4 +1,5 @@
 DOMAIN-KEYWORD,google,AutoGroup
+DOMAIN-SUFFIX,brave.com,AutoGroup
 DOMAIN-KEYWORD,pagespeed-mod,AutoGroup
 DOMAIN-SUFFIX,moon.fm,Direct
 DOMAIN-SUFFIX,googleapis.com,AutoGroup
