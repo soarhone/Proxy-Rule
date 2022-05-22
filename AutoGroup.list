@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,launchdarkly,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
 DOMAIN-KEYWORD,pagespeed-mod,AutoGroup
 
+DOMAIN-SUFFIX,jsdelivr.net,AutoGroup
 DOMAIN-SUFFIX,addthis.com,AutoGroup
 DOMAIN-SUFFIX,brave.com,AutoGroup
 DOMAIN-SUFFIX,moon.fm,Direct
