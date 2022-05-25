@@ -1,3 +1,6 @@
+DOMAIN-KEYWORD,facebook,日本Proxy
+DOMAIN-KEYWORD,instagram,日本Proxy
+
 DOMAIN-KEYWORD,google,AutoGroup
 DOMAIN-KEYWORD,launchdarkly,AutoGroup
 DOMAIN-KEYWORD,launchpad,AutoGroup
@@ -67,9 +70,7 @@ DOMAIN,hboasia5-i.akamaihd.net,AutoGroup
 DOMAIN,hls.itunes.apple.com,AutoGroup
 DOMAIN,itunes.apple.com,AutoGroup
 DOMAIN,itvpnpmobile-a.akamaihd.net,AutoGroup
-DOMAIN-KEYWORD,facebook,AutoGroup
 DOMAIN-KEYWORD,gmail,AutoGroup
-DOMAIN-KEYWORD,instagram,AutoGroup
 DOMAIN-KEYWORD,twitter,AutoGroup
 DOMAIN-KEYWORD,amazon,AutoGroup
 DOMAIN-KEYWORD,appledaily,AutoGroup
