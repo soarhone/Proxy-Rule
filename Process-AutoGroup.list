@@ -7,6 +7,3 @@ PROCESS-NAME,Unsplash Wallpapers.app,AutoGroup
 PROCESS-NAME,Telegram.app,AutoGroup
 PROCESS-NAME,Microsoft To Do.app,AutoGroup
 PROCESS-NAME,Mate Translate.app,AutoGroup
-PROCESS-NAME,LookupViewService,AutoGroup
-PROCESS-NAME,Microsoft Outlook.app,AutoGroup
-PROCESS-NAME,Spark.app,AutoGroup
