@@ -1174,7 +1174,6 @@ DOMAIN-KEYWORD,wikileaks,AutoGroup
 DOMAIN-KEYWORD,wikimedia,AutoGroup
 DOMAIN-KEYWORD,yandex,AutoGroup
 DOMAIN-KEYWORD,youtube-nocookie,AutoGroup
-DOMAIN-KEYWORD,192tt,AutoGroup
 
 # > User-Agent 用户代理
 USER-AGENT,Roam*,AutoGroup
