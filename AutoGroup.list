@@ -602,7 +602,6 @@ DOMAIN-SUFFIX,my5.tv,AutoGroup
 DOMAIN-SUFFIX,myactimes.com,AutoGroup
 DOMAIN-SUFFIX,myexamtest.com,AutoGroup
 DOMAIN-SUFFIX,myfontastic.com,AutoGroup
-DOMAIN-SUFFIX,myshopify.com,AutoGroup
 DOMAIN-SUFFIX,myspace.com,AutoGroup
 DOMAIN-SUFFIX,myspacecdn.com,AutoGroup
 DOMAIN-SUFFIX,mysql.com,AutoGroup
@@ -812,7 +811,6 @@ DOMAIN-SUFFIX,sharethis.com,AutoGroup
 DOMAIN-SUFFIX,shattered.io,AutoGroup
 DOMAIN-SUFFIX,shazam.com,AutoGroup
 DOMAIN-SUFFIX,shopee.tw,AutoGroup
-DOMAIN-SUFFIX,shopify.com,AutoGroup
 DOMAIN-SUFFIX,shruanhua.com,AutoGroup
 DOMAIN-SUFFIX,signal.org,AutoGroup
 DOMAIN-SUFFIX,skillsusa-wi.org,AutoGroup
@@ -1120,6 +1118,7 @@ DOMAIN,streamingaudio.itunes.apple.com,AutoGroup
 DOMAIN,testflight.apple.com,AutoGroup
 
 # > Domain-Keyword 域名关键词
+DOMAIN-KEYWORD,shopify,AutoGroup
 DOMAIN-KEYWORD,amazon,AutoGroup
 DOMAIN-KEYWORD,appledaily,AutoGroup
 DOMAIN-KEYWORD,astrill,AutoGroup
