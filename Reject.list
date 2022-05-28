@@ -36,8 +36,6 @@ DOMAIN-SUFFIX,pagechoice.net,REJECT
 DOMAIN-SUFFIX,prom.gome.com.cn,REJECT
 DOMAIN-SUFFIX,rlogs.youdao.com,REJECT
 DOMAIN-SUFFIX,static.flv.uuzuonline.com,REJECT
-DOMAIN-SUFFIX,wanproxy.127.net,REJECT
-DOMAIN-SUFFIX,ws.126.net,REJECT
 DOMAIN-SUFFIX,actives.youku.com,REJECT
 DOMAIN-SUFFIX,ad.api.3g.tudou.com,REJECT
 DOMAIN-SUFFIX,ad.api.3g.youku.com,REJECT
