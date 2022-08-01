@@ -401,7 +401,7 @@ DOMAIN-SUFFIX,goo.gle,AutoGroup
 DOMAIN-SUFFIX,goo.ne.jp,AutoGroup
 DOMAIN-SUFFIX,goodreaders.com,AutoGroup
 DOMAIN-SUFFIX,goodreads.com,AutoGroup
-DOMAIN-SUFFIX,googleapis.com,AutoGroup
+DOMAIN-SUFFIX,googleapis.com,台湾Proxy
 DOMAIN-SUFFIX,gov,AutoGroup
 DOMAIN-SUFFIX,gov.tw,AutoGroup
 DOMAIN-SUFFIX,gratisexam.com,AutoGroup
@@ -1139,7 +1139,7 @@ DOMAIN-KEYWORD,gif-china,AutoGroup
 DOMAIN-KEYWORD,gifrocket,AutoGroup
 DOMAIN-KEYWORD,githubusercontent,AutoGroup
 DOMAIN-KEYWORD,gmail,AutoGroup
-DOMAIN-KEYWORD,google,AutoGroup
+DOMAIN-KEYWORD,google,台湾Proxy
 DOMAIN-KEYWORD,hubblesite,AutoGroup
 DOMAIN-KEYWORD,indiatimes,AutoGroup
 DOMAIN-KEYWORD,jav,AutoGroup
