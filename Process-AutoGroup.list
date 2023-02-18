@@ -9,3 +9,4 @@ PROCESS-NAME,Telegram.app
 PROCESS-NAME,Mate Translate.app
 PROCESS-NAME,Zoommy,AutoGroup
 PROCESS-NAME,Find Any File,AutoGroup
+PROCESS-NAME,telegram,AutoGroup
