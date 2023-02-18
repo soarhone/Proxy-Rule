@@ -5,7 +5,7 @@ PROCESS-NAME,MusicBrainz Picard.app
 PROCESS-NAME,Mail.app
 PROCESS-NAME,LiveChat.app
 PROCESS-NAME,Unsplash Wallpapers.app
-PROCESS-NAME,Telegram.app
+PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
 PROCESS-NAME,Mate Translate.app
 PROCESS-NAME,Zoommy,AutoGroup
 PROCESS-NAME,Find Any File,AutoGroup
