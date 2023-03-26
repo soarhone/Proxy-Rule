@@ -1,4 +1,5 @@
 # > Application Proxy
+PROCESS-NAME,Notability.app
 PROCESS-NAME,Rosetta Stone Learn Languages.app
 PROCESS-NAME,Microsoft To Do.app
 PROCESS-NAME,Music Tag Editor Pro.app
@@ -13,6 +14,7 @@ PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
 
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,chiphell.com,AutoGroup
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,womwe.com
@@ -421,7 +423,6 @@ DOMAIN-SUFFIX,gratisexam.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,gsitecrawler.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,guo.media
 DOMAIN-SUFFIX,gv.com
