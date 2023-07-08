@@ -13,6 +13,7 @@ PROCESS-NAME,Find Any File.app
 PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,kingexam.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,chiphell.com,AutoGroup
