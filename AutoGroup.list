@@ -936,8 +936,8 @@ DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,tvbs.com.tw
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
-# > DOMAIN-SUFFIX,twimg.co
-# > DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitpic.com
@@ -1180,7 +1180,7 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,theprogrammers
 DOMAIN-KEYWORD,titansupport
 DOMAIN-KEYWORD,trustedsource
-# > DOMAIN-KEYWORD,twitter
+OMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,underarmour
 DOMAIN-KEYWORD,192tt
