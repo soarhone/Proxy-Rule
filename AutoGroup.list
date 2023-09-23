@@ -10,7 +10,7 @@ PROCESS-NAME,Unsplash Wallpapers.app
 PROCESS-NAME,Mate Translate.app
 PROCESS-NAME,Zoommy.app
 PROCESS-NAME,Find Any File.app
-PROCESS-NAME,/Applications/Telegram.app/Contents/MacOS/Telegram
+PROCESS-NAME,Telegram.app
 
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,googlesyndication.com
