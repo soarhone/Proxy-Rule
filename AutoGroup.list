@@ -13,6 +13,7 @@ PROCESS-NAME,Find Any File.app
 PROCESS-NAME,Telegram.app
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,kingexam.com
