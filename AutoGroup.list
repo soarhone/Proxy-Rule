@@ -13,6 +13,7 @@ PROCESS-NAME,Find Any File.app
 PROCESS-NAME,Telegram.app
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,omnivore.app
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,googlesyndication.com
