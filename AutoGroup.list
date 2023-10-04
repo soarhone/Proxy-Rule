@@ -14,6 +14,7 @@ PROCESS-NAME,Telegram.app
 
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,js-eu1.hscollectedforms.net
 DOMAIN-SUFFIX,software.charliemonroe.net
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,omnivore.app
