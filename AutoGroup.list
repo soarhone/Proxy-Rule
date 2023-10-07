@@ -13,6 +13,7 @@ PROCESS-NAME,Find Any File.app
 PROCESS-NAME,Telegram.app
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,1.1.1.1
 DOMAIN-SUFFIX,in.appcenter.ms
