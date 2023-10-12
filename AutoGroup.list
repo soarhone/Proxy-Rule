@@ -12,6 +12,10 @@ PROCESS-NAME,Zoommy.app
 PROCESS-NAME,Find Any File.app
 PROCESS-NAME,Telegram.app
 
+# > IP-CIDR 走 Autogroup
+IP-CIDR,45.33.0.207/32
+
+
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,one.one.one.one
@@ -1244,7 +1248,6 @@ USER-AGENT,Viu*
 USER-AGENT,ViuTV*
 
 # > IP-CIDR
-IP-CIDR,45.33.0.207/32
 IP-CIDR,172.104.122.6/32,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,35.157.215.84/32,no-resolve
