@@ -19,11 +19,6 @@ IP-CIDR,45.33.0.207/32
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,twdigitalassets.com
-DOMAIN-SUFFIX,all4certs.com
-DOMAIN-SUFFIX,passallexams.com
-DOMAIN-SUFFIX,testsdownload.com
-DOMAIN-SUFFIX,dumps1pass.com
-DOMAIN-SUFFIX,downloadexams.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,1.1.1.1
@@ -37,7 +32,6 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,kingexam.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,chiphell.com,AutoGroup
@@ -65,8 +59,6 @@ DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,academia.edu
-DOMAIN-SUFFIX,actual4test.com
-DOMAIN-SUFFIX,actualcert.com
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,admin.recaptcha.net
@@ -82,7 +74,6 @@ DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,alfresco.com
 DOMAIN-SUFFIX,allconnected.co
-DOMAIN-SUFFIX,allpass4sure.com
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonvideo.com
@@ -197,12 +188,6 @@ DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,centauro.com.br
-DOMAIN-SUFFIX,certadept.com
-DOMAIN-SUFFIX,certallin.com
-DOMAIN-SUFFIX,certbus.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,certkingdompdf.com
-DOMAIN-SUFFIX,certsdeal.com
 DOMAIN-SUFFIX,cfos.de
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,channel4.com
@@ -217,7 +202,6 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,ciligou.top
 DOMAIN-SUFFIX,cilimao.cc
-DOMAIN-SUFFIX,ciscocertificates.com
 DOMAIN-SUFFIX,citypopulation.de
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,cl.ly
@@ -312,8 +296,6 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dwith.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dueapp.com
-DOMAIN-SUFFIX,dumpsfree.com
-DOMAIN-SUFFIX,dumpspedia.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,dw.com
@@ -351,13 +333,6 @@ DOMAIN-SUFFIX,eurekavpt.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,evozi.com
-DOMAIN-SUFFIX,examcollection.com
-DOMAIN-SUFFIX,examcollectionvce.com
-DOMAIN-SUFFIX,examscollection.org
-DOMAIN-SUFFIX,examsdocs.com
-DOMAIN-SUFFIX,examsforall.com
-DOMAIN-SUFFIX,exams-lab.com
-DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,failiem.lv
 DOMAIN-SUFFIX,fast.com
@@ -445,7 +420,6 @@ DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gov.tw
-DOMAIN-SUFFIX,gratisexam.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,gsitecrawler.com
@@ -518,8 +492,6 @@ DOMAIN-SUFFIX,ispeech.org
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,it-certdumps.com
-DOMAIN-SUFFIX,itcertkey.com
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,itunes.com
@@ -556,8 +528,6 @@ DOMAIN-SUFFIX,keepandshare.com
 DOMAIN-SUFFIX,kenengba.com
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kik.com
-DOMAIN-SUFFIX,killcerts.com
-DOMAIN-SUFFIX,killvce.com
 DOMAIN-SUFFIX,kinguin.net
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
@@ -569,7 +539,6 @@ DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,kodingen.com
 DOMAIN-SUFFIX,kproxy.com
 DOMAIN-SUFFIX,kuvva.com
-DOMAIN-SUFFIX,lead4pass.com
 DOMAIN-SUFFIX,leakedsource.com
 DOMAIN-SUFFIX,lemonde.fr
 DOMAIN-SUFFIX,lenovo.com
@@ -671,7 +640,6 @@ DOMAIN-SUFFIX,netflixdnstest6.com
 DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-SUFFIX,newcerts.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,newstapa.org
 DOMAIN-SUFFIX,nexitally.com
@@ -749,9 +717,6 @@ DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,parallelsdesktop.cn
 DOMAIN-SUFFIX,parsehub.com
 DOMAIN-SUFFIX,parsevideo.com
-DOMAIN-SUFFIX,pass4sure.com
-DOMAIN-SUFFIX,pass4sures.co
-DOMAIN-SUFFIX,pass4true.com
 DOMAIN-SUFFIX,payoneer.com
 DOMAIN-SUFFIX,paypro.com
 DOMAIN-SUFFIX,pbs.org
@@ -970,7 +935,6 @@ DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typepad.com
 DOMAIN-SUFFIX,ubnt.com
-DOMAIN-SUFFIX,ucertify.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udnbkk.com
 DOMAIN-SUFFIX,ulyssesapp.com
@@ -1167,8 +1131,6 @@ DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,beargogogo
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,bodybuilding
-DOMAIN-KEYWORD,certbolt
-DOMAIN-KEYWORD,certmagic
 DOMAIN-KEYWORD,citizenlab
 DOMAIN-KEYWORD,comptia
 DOMAIN-KEYWORD,d3planner
