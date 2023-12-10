@@ -18,6 +18,7 @@ IP-CIDR,45.33.0.207/32
 
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,cdn.cms-twdigitalassets.com
 DOMAIN-SUFFIX,twdigitalassets.com
 DOMAIN-SUFFIX,wireguard.com
