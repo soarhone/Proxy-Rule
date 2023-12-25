@@ -17,7 +17,6 @@ IP-CIDR,45.33.0.207/32
 
 
 # > Domain-Suffix 域名后缀
-DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,academia.edu
 DOMAIN-SUFFIX,issuu.com
