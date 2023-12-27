@@ -17,6 +17,7 @@ IP-CIDR,45.33.0.207/32
 
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,academia.edu
