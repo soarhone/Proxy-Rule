@@ -17,6 +17,8 @@ IP-CIDR,45.33.0.207/32
 
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,tawk.to
+DOMAIN-SUFFIX,tawk.link
 DOMAIN-SUFFIX,m.stripe.network
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,githubassets.com
