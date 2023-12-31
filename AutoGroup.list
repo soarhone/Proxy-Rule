@@ -20,8 +20,7 @@ IP-CIDR,45.33.0.207/32
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tawk.link
 DOMAIN-SUFFIX,m.stripe.network
@@ -46,7 +45,6 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,chiphell.com,AutoGroup
 DOMAIN-SUFFIX,womwe.com
 DOMAIN-SUFFIX,0rz.tw
