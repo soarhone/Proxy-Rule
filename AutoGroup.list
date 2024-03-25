@@ -11,12 +11,16 @@ PROCESS-NAME,Mate Translate.app
 PROCESS-NAME,Zoommy.app
 PROCESS-NAME,Find Any File.app
 PROCESS-NAME,Telegram.app
+PROCESS-NAME,Applite.app
+PROCESS-NAME,Tiktok
 
 # > IP-CIDR 走 Autogroup
 IP-CIDR,45.33.0.207/32
 
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,u.keka.io
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleapis.com
