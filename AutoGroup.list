@@ -19,6 +19,7 @@ IP-CIDR,45.33.0.207/32
 
 
 # > Domain-Suffix 域名后缀
+DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,amysecure.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,u.keka.io
