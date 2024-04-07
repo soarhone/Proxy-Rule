@@ -16,6 +16,7 @@ PROCESS-NAME,Tiktok
 
 # > IP-CIDR 走 Autogroup
 IP-CIDR,45.33.0.207/32
+IP-CIDR,23.92.22.76/32
 
 
 # > Domain-Suffix 域名后缀
