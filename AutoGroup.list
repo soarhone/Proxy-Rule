@@ -14,10 +14,6 @@ PROCESS-NAME,Telegram.app
 PROCESS-NAME,Applite.app
 PROCESS-NAME,Tiktok
 
-# > IP-CIDR 走 Autogroup
-IP-CIDR,45.33.0.207/32
-IP-CIDR,23.92.22.76/32
-
 
 # > Domain-Suffix 域名后缀
 DOMAIN-SUFFIX,brew.sh
@@ -1283,3 +1279,4 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+FINAL,other
